@@ -1,0 +1,14 @@
+Package: ChavezWorldPopulation
+Type: Package
+Title: World Population Graphing
+Version: 0.1.0
+Author: Rebecca Chavez
+Maintainer: Rebecca Chavez <rlc397@nau.edu>
+Description: Contains data for World Population and World Cup.
+    Also creates a graph of a country's population over time.
+License: None
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10), magrittr, stringr, tidyr, ggplot2
+RoxygenNote: 7.2.3
